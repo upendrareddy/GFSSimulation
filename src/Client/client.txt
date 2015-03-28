@@ -1,0 +1,6 @@
+starting chunk :1 last chunk number :1
+offset within file:2005 ending point of this chunk :2048
+starting chunk :1 last chunk number :1
+offset within file:6128 ending point of this chunk :6156
+starting chunk :3 last chunk number :3
+offset within file:2058 ending point of this chunk :2063

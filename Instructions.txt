@@ -1,0 +1,46 @@
+
+READ ME
+
+
+	config.txt : has mapping of servers/clients with the domain names. 
+M-Server 
+	domain name must be specified with "mserver".
+
+
+Client Folder :
+contains all the .java files related to client.
+
+	To run the client use the following command :
+
+		javac *.java
+
+		java ClientMain <id_specified_in_config_file> <name_of_the_command_file>
+
+
+Server Folder:
+contains all the .java files related to server.
+
+	To run server use the following command :
+		
+javac *.java
+
+		java ServerMain <id_specified_in_config_file>
+
+
+MServer Folder :
+contains all the .java files related to m-server.
+
+	To run m-server use the following command :
+javac *.java
+
+		java MetaServer
+
+Order in which program should be executed:
+
+
+
+first start the mserver.
+
+second all the servers.
+
+finally all the clients.

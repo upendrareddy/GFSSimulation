@@ -1,0 +1,6 @@
+r|f1.txt|1000|15
+r|f2.txt|5000|70
+r|f1.txt|7455|46
+r|f2.txt|16428|42
+w|f3.txt|Data here.
+a|f3.txt|More data to append.
